@@ -1,2 +1,2 @@
-# r-package-utility-functions
-My personal utility functions when coding in R
+# apw.r.utilities
+My personal utility and helper functions when coding in R
